@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  
+    <title type="text" xml:lang="en">Tanvi Surana</title>
+    <link type="application/atom+xml" rel="self" href="tanvi-surana.github.io/atom.xml"/>
+  
+  <link href="tanvi-surana.github.io/"/>
+  <id>tanvi-surana.github.io/</id>
+  <updated>2016-10-12T21:59:39Z</updated>
+  <author>
+    <name>Tanvi Surana</name>
+    <email>tanvisurana20@gmail.com</email>
+  </author>
+  <rights type="text">Copyright © 2016 Tanvi Surana. All rights reserved.</rights>
+  
+
+</feed>
