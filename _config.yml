@@ -9,8 +9,10 @@ port: 3000
 safe: true
 
 
-url: tanvi-surana.github.io
-baseurl: tanvisurana.github.io
+url: http://tanvi-surana.github.io/
+baseurl: http://tanvisurana.github.io/
+# url: ""
+# baseurl: ""
 title: Tanvi Surana
 author: Tanvi Surana
 description: "testing"
